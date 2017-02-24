@@ -34,3 +34,7 @@ ton état dépend de celui de tes voisins
 prendre le code python suivant :
   http://www.labri.fr/perso/nrougier/from-python-to-numpy/code/game_of_life_numpy.py
 et l'étendre pour les boucles de langton et sexyloops
+
+## sources / références
+Repo github listant une quantité impressionnante de règles d'automates cellulaires !
+https://github.com/gollygang/ruletablerepository/wiki/TheRules
