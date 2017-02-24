@@ -1,5 +1,5 @@
 # Workshop IA sur les Automates Cellulaires
-## Mercredi 1er Mars au Node, Bordeaux
+## Mercredi 1er Mars à 18h30 au Node, Bordeaux
 Animé par Nicolas P. Rougier & Xavier Hinaut, chercheurs à l'Inria Bordeaux.
 
 Co-organisé par le [MindLaBDX](https://mindlabdx.github.io/about/) et [Aquinum](https://aquinum.fr/). (Merci en particulier à Tallulah Gilliard et Pauline Marcon pour l'organisation !)
