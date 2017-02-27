@@ -14,7 +14,7 @@ Plus de détails sur l'événement sur la [page facebook](https://www.facebook.c
 
 ## Préparer sa machine avant le workshop
 Installez sur votre machine :
-- Python 3 et/ou 2 (vous pouvez utiliser [pyenv](https://github.com/yyuu/pyenv) pour avoir les deux versions installées en parallèle).
+- Python 3 et/ou 2 (vous pouvez utiliser [pyenv](https://github.com/yyuu/pyenv) pour avoir les deux versions installées en parallèle)
 - Numpy (bibliothèque scientifique)
 - Matplotlib (bibliothèque pour faire des graphiques)
 
