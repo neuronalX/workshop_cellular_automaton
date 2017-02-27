@@ -14,9 +14,11 @@ Plus de détails sur l'événement sur la [page facebook](https://www.facebook.c
 
 ## Préparer sa machine avant le workshop
 Installez sur votre machine :
-- Python 2 et/ou 3 (vous pouvez utiliser pyenv pour avoir les deux versions installées en parallèle).
+- Python 3 et/ou 2 (vous pouvez utiliser [pyenv](https://github.com/yyuu/pyenv) pour avoir les deux versions installées en parallèle).
 - Numpy (bibliothèque scientifique)
 - Matplotlib (bibliothèque pour faire des graphiques)
+
+Le plus simple pour installer Python 3 et le package de bibliothèques courantes (Numpy, Matplotlib) est d'installer [Anaconda](https://www.continuum.io/downloads).
 
 Vous pouvez tester votre installation de Python 3 en téléchargeant le fichier _check_install_python3.py_ et exécutant dans un terminal:
 >   python check_install_python3.py
