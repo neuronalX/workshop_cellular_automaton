@@ -31,4 +31,5 @@ Ce workshop reprend du code du livre de Nicolas P. Rougier "From Python to Numpy
 
 ## MISC
 Savez vous qu'un tweet suffit pour coder un automate cellulaire 1D en Python ? Comment feriez-vous ?
+
 La [réponse](https://github.com/neuronalX/workshop_cellular_automaton/blob/master/tweetable_1D_cellular_automata.py) et la [démo](https://twitter.com/NPRougier/status/835234915008512000).
