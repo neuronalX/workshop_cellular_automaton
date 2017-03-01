@@ -33,3 +33,11 @@ Ce workshop reprend du code du livre de Nicolas P. Rougier "From Python to Numpy
 Savez vous qu'un tweet suffit pour coder un automate cellulaire 1D en Python ? Comment feriez-vous ?
 
 La [réponse](https://github.com/neuronalX/workshop_cellular_automaton/blob/master/tweetable_1D_cellular_automata.py) et la [démo](https://twitter.com/NPRougier/status/835234915008512000).
+
+## Sources / références
+### Repo github listant une quantité impressionnante de règles d'automates cellulaires !
+https://github.com/gollygang/ruletablerepository/wiki/TheRules
+### codes sources (pour la 1D) dans plein de langages différents
+http://rosettacode.org/wiki/One-dimensional_cellular_automata
+### variantes des 1D: "totalistic cellular automaton"
+http://mathworld.wolfram.com/TotalisticCellularAutomaton.html
