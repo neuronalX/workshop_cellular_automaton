@@ -8,9 +8,10 @@ Pour les informations concernant l'événement (workshop) passé, voir plus bas 
 Pour dérouler un automate cellulaire soi-même, il faut imprimer [cette feuille A4](https://github.com/neuronalX/workshop_cellular_automaton/blob/master/grille_a_remplir_Automata1D.pdf)
 
 Puis faire les étapes suivantes :
-1) tu choisis ta propre règle : c'est à dire colorier ou non la case centrale pour chaque cas (triplet) possible
-2) ensuite tu colores la première ligne comme tu veux (par ex juste la case la plus centrale, comme ça on les gens peuvent rapidement comparer différentes règles
-3) tu colores la seconde ligne (et ainsi de suite pour chaque ligne) en appliquant les règles que tu as choisi en 1)
+1) tu choisis ta propre règle : c'est à dire colorier ou non la case centrale pour chaque cas (triplet) possible.
+2) additionnes les nombres à côté des cases de tu as colorié, écris le résultat au bout de la ligne en dessous de "Rule:". Tu as maintenant le numéro de ta règle qui est en fait son identifiant. Tu dois avoir un nombre entre 0 et 255.
+3) ensuite tu colores la première ligne comme tu veux (par ex juste la case la plus centrale, comme ça on les gens peuvent rapidement comparer différentes règles.
+4) tu colores la seconde ligne (et ainsi de suite pour chaque ligne) en appliquant les règles que tu as choisi en 1).
 
 ### Comment coder un automate cellulaire en Python ?
 Savez vous qu'un tweet suffit pour coder un automate cellulaire 1D en Python ? Comment feriez-vous ?
@@ -18,6 +19,8 @@ Savez vous qu'un tweet suffit pour coder un automate cellulaire 1D en Python ? C
 La [réponse](https://github.com/neuronalX/workshop_cellular_automaton/blob/master/tweetable_1D_cellular_automata.py) et la [démo](https://twitter.com/NPRougier/status/835234915008512000).
 
 ### Sources / références
+#### Génération de musique avec automates cellulaires et introduction à la classification et Wolfram
+http://musiquealgorithmique.fr/automates-cellulaires/
 #### Repo github listant une quantité impressionnante de règles d'automates cellulaires !
 https://github.com/gollygang/ruletablerepository/wiki/TheRules
 #### codes sources (pour la 1D) dans plein de langages différents
