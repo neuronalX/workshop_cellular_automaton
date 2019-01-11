@@ -10,7 +10,7 @@ Pour dérouler un automate cellulaire soi-même, il faut imprimer [cette feuille
 Puis faire les étapes suivantes :
 1) tu choisis ta propre règle : c'est à dire colorier ou non la case centrale pour chaque cas (triplet) possible.
 2) additionnes les nombres à côté des cases de tu as colorié, écris le résultat au bout de la ligne en dessous de "Rule:". Tu as maintenant le numéro de ta règle qui est en fait son identifiant. Tu dois avoir un nombre entre 0 et 255.
-3) ensuite tu colores la première ligne comme tu veux (par ex juste la case la plus centrale, comme ça on les gens peuvent rapidement comparer différentes règles.
+3) ensuite tu colores la première ligne comme tu veux (par ex juste la case la plus centrale) comme ça tu pourras rapidement comparer les "dessins" de ta règle par rapport à celle des autres.
 4) tu colores la seconde ligne (et ainsi de suite pour chaque ligne) en appliquant les règles que tu as choisi en 1).
 
 ### Comment coder un automate cellulaire en Python ?
